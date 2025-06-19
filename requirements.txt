@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+torch
+transformers
+gensim
+openpyxl
+scikit-learn
