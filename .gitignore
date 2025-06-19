@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# Flask uploads, results, and models
+uploads/
+results/
+models/
+
+# HuggingFace/Transformers or pretrained model folders
+indobert-base-p2/
+
+# OS or IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
