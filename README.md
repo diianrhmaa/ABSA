@@ -1,6 +1,7 @@
 🎓 Aspect-Based Sentiment Analysis (ABSA) for Open-Ended Survey Responses
 
 This project implements an Aspect-Based Sentiment Analysis (ABSA) system specifically designed to analyze open-ended survey responses. The goal is to extract meaningful insights by identifying specific aspects mentioned in free-text answers and classifying the sentiment (positive, negative, or neutral) associated with each aspect.
+
 🧠 Key Features
 
     🔍 Aspect Extraction: Automatically detects key aspects/topics from open-ended responses.
